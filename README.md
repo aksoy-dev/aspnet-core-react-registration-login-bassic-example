@@ -14,17 +14,17 @@ In the project directory, you can run:
 ### `npm start`
 
 
- <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/1.gif" width="700" /> 
+ <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/1.gif" width="900" /> 
  
-  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/2.jpg" width="700" />
+  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/2.jpg" width="900" />
   
-  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/3.jpg" width="700" />
-   <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/6.jpg" width="700" />
+  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/3.jpg" width="900" />
+   <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/6.jpg" width="900" />
   
   
-  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/4.jpg" width="700" />
+  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/4.jpg" width="900" />
   
-  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/5.jpg" width="700" />
+  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/5.jpg" width="900" />
   
  
 
