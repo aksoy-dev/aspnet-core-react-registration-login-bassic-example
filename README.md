@@ -7,12 +7,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-to install the necessary packages
+To install the necessary packages:
 ### `npm install`
 
 In the project directory, you can run:
 ### `npm start`
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/1.gif" width="700" /> 
+ 
+  <img src="https://github.com/aksoy-dev/aspnet-core-react-registration-login-bassic-example/blob/main/source/2.jpg" width="700" />
+  
+
+
+
